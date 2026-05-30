@@ -1,4 +1,4 @@
-# AetherLearn (EduOS) — Next-Gen Student Dashboard
+# EduOS — Next-Gen Student Dashboard
 
 A high-fidelity, futuristic, dark-mode education platform prototype built to demonstrate hardware-accelerated animations, zero layout shifts, and server-rendered database integration.
 
