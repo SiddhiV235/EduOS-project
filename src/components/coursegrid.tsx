@@ -35,8 +35,8 @@ export async function CourseGrid() {
 
   return (
     <>
-      {courses.map((course) => (
-        <CourseCard key={course.id} course={course} />
+      {courses.map((course, index) => (
+        <CourseCard key={course.id} course={course} index={index} />
       ))}
     </>
   );
